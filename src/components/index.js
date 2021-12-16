@@ -16,7 +16,6 @@ import Sort from './Sort'
 import Stars from './Stars'
 import CartContent from './CarContent'
 import PageHero from './PageHero'
-import StripeCheckout from './StripeCheckout'
 export {
   FeaturedProducts,
   Navbar,
@@ -35,6 +34,5 @@ export {
   Sort,
   Stars,
   CartContent,
-  PageHero,
-  StripeCheckout,
+  PageHero
 }
